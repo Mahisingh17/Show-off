@@ -4,19 +4,6 @@ Welcome to ShowOff, it aims to provide a platform for users to share their exper
 
 ## Overview
 In this project, I have developed a social media application where users can create and share posts, connect with others, and explore content shared by the community.
-## Live Demo
-
-[Live Demo](https://showofff.netlify.app)
-
-## Project Screenshot
-![Screenshot (4)](https://github.com/arshiya4220/showoff/assets/131943642/1749ebd4-bbbf-4ed6-a6a9-979d32c2a099)
-
-![Screenshot (5)](https://github.com/arshiya4220/showoff/assets/131943642/89f41a5c-f745-4e24-88b6-1df53b590982)
-
-## Video Demo
-
-https://github.com/arshiya4220/showoff/assets/131943642/df209248-9eef-4d71-9045-70c6962e49b1
-
 
 ## Flow of the Application
 Showoff follows a smooth flow, starting from user authentication to creating and sharing posts, exploring content, and interacting with other users.
@@ -43,7 +30,7 @@ Showoff follows a smooth flow, starting from user authentication to creating and
 How to Run Locally 🚀
 1. Clone the project:
     ```bash
-    git clone https://github.com/arshiya4220/showoff
+    git clone https://github.com/Mahisingh17/Show-off
     ```
 2. Go to the frontend directory:
     ```bash
